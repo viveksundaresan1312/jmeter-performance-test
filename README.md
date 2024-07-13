@@ -39,7 +39,7 @@ To run Jmeter in
 
 1. Windows - To launch JMeter on Windows just double click the jmeter. bat file or go to command prompt and type <file path>/apache-jmeter-4.0/bin/jmeter.
 2. Linux - Go to the JMeter bin directory, for example: cd /apache-jmeter-5.4.1/bin And run ./jmeter.sh
-3. Mac - To launch JMeter on Mac, go to the directory and run jmeter
+3. Mac - To launch JMeter on Mac, go to the directory and run ```jmeter```
 
 ### UPLOAD JMX FILE
 
