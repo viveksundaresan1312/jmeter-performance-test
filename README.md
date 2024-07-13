@@ -33,7 +33,7 @@ java -version
 Visit this link - [Jmeter Download and Install] (https://jmeter.apache.org/download_jmeter.cgi)
 
 
-### Run JMeter
+## Run JMeter
 
 To run Jmeter in 
 
@@ -41,7 +41,7 @@ To run Jmeter in
 2. Linux - Go to the JMeter bin directory, for example: cd /apache-jmeter-5.4.1/bin And run ./jmeter.sh
 3. Mac - To launch JMeter on Mac, go to the directory and run jmeter
 
-#### UPLOAD JMX FILE
+## UPLOAD JMX FILE
 
 1. Open JMeter
 2. Navigate to "Open" and click it
